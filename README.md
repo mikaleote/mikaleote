@@ -16,11 +16,10 @@ Sou um estudante dedicado com foco em Desenvolvimento de Software. Atualmente, e
 
 ![mikaleote's Stats](https://github-readme-stats.vercel.app/api?username=mikaleote&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![mikaleote's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikaleote&theme=tokyonight&hide_border=false)
-![mikaleote's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaleote&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ## 💼 Projetos Recentes
 
-Aqui estão alguns dos meus projetos mais relevantes:
+Aqui está um repositório criado por mim para divulgar meus projetos da Faculdade:
 
 - [**Natural ou Fake Natty?**](https://github.com/seuperfil/fake-natty) - Projeto de IA desenvolvido para identificar conteúdo gerado por IA, utilizando técnicas de processamento de linguagem natural e machine learning.
 
