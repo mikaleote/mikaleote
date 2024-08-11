@@ -9,8 +9,8 @@ Sou um estudante dedicado com foco em Desenvolvimento de Software. Atualmente, e
 - 🎓 **Estudante**: Engenharia de Software - PUCRS
 - 💻 **Linguagens**: Java, JavaScript, Python, SQL
 - 📚 **Áreas de Estudo**: Engenharia de Requisitos, Métodos Ágeis, Arquitetura de Software e Música!🎵
-- 🌱 **Aprendendo Atualmente**: Desenvolvimento Backend, Machine Learning e Design Patterns.
-- 💡 **Interesses**: Desenvolvimento e soluções inovadoras, que buscam resolver problemas.
+- 🌱 **Aprendendo Atualmente**: Desenvolvimento FullStack, Machine Learning e Design Patterns.
+- 💡 **Interesses**: Desenvolvimento de soluções inovadoras, que buscam resolver problemas apresentados para mim.
 
 ## 📈 Estatísticas do GitHub
 
@@ -20,7 +20,7 @@ Sou um estudante dedicado com foco em Desenvolvimento de Software. Atualmente, e
 ## 💼 Projetos PUCRS
 
 Aqui está um repositório criado por mim para divulgar meus projetos da Faculdade:
-https://github.com/mikaleote/pucrs-projects-se
+- [**Bacharelado em Engenharia de Software**] https://github.com/mikaleote/pucrs-projects-se
 
  ##  💼 Demais Projetos
 
