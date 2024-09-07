@@ -24,7 +24,6 @@ Aqui está um repositório criado por mim para divulgar meus projetos da Faculda
 
  ##  💼 Demais Projetos
 
-- [**Natural ou Fake Natty?**](https://github.com/seuperfil/fake-natty) - Projeto de IA desenvolvido para identificar conteúdo gerado por IA, utilizando técnicas de processamento de linguagem natural e machine learning.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -49,7 +48,7 @@ Aqui está um repositório criado por mim para divulgar meus projetos da Faculda
 Estou sempre aberta a novas oportunidades e colaborações. Se você deseja discutir sobre desenvolvimento de software, compartilhar ideias e até mesmo me contratar, entre em contato comigo:
 
 - 📧 **Email**: mikael.leote@edu.pucrs.com
-- 💼 **LinkedIn**: [linkedin.com/in/mikael-leote](www.linkedin.com/in/mikaelleote)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/mikaelleote/
 - 💬 **Discord**: mika#3193
 - 💼 **Slack**: @mikaelleote
 
